@@ -1,6 +1,6 @@
 # EXNO-6-DS-DATA VISUALIZATION USING SEABORN LIBRARY
 # NAME:GOKHULRAJ V
-# REG.NO:=212223230064
+# REG.NO:212223230064
 # Aim:
   To Perform Data Visualization using seaborn python library for the given datas.
 
